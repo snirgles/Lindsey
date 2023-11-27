@@ -7,4 +7,6 @@ border-width: 200em;
 justify-content: space-around;
 color: blueviolet;
 }
-
+p {
+    border: 2px solid powderblue;
+  }
