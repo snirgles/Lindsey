@@ -12,6 +12,7 @@ p {
     background-color: powderblue;
     text-align: center;
     margin-top: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .smiley {
     position: absolute;
@@ -27,7 +28,7 @@ p {
       width: 50%;
       display:inline;
       text-align: center;   
-
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       
     }
   .lang {
